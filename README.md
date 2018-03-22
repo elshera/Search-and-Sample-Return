@@ -1,6 +1,5 @@
 [![Udacity Robotics Nanodegree](http://tugan0329.bitbucket.io/imgs/github/robond.svg)](https://www.udacity.com/robotics)
 
-![header img](misc/readme.png)
 
 # Search and Sample Return
 
@@ -22,12 +21,6 @@
 In this project, I have written code to autonomously map a simulated environment, search for samples of interest, and pick them up. Finally return to the starting position.
 
 This project is inspired by the [NASA sample return challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/sample_return_robot/index.html)
-
-
-## Watch the Autonomous Mode Video
-You can watch a demo run of Rover navigating the simulated environment and searching for rocks autonomously [here](https://youtu.be/IRTw2f-onKQ).
-
-![rover](misc/rover_demo.gif)
 
 ## Getting the Simulator
 
